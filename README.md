@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codeuse-02
 - 👀 I’m interested in web developpement
-- 🌱 I’m currently learning Js,React,NextJs and NextJs
+- 🌱 I’m currently learning how to use React,NextJs and Appwrite for a fullStack app
 - ⚡ Fun fact: I love reading
 
 <!---
